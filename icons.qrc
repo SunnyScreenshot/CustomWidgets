@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>switch_button.svg</file>
+
+    </qresource>
+</RCC>
